@@ -2,6 +2,9 @@
 #define _INVENTORY_
 #include <iostream>
 
+//Inventory represents an item, its price, and the amount held in stock
+//of that item. Items can only be compared and sold. 
+
 using std::string;
 using std::ostream;
 
